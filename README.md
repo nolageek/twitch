@@ -20,14 +20,14 @@ Host = 25pts |
  
 # Free Commands
 
-## General CMDS /Manage Points
+## General CMDS / Manage Points
 Command | Title | Command | Title
 ------- | ------- | ------- | -------
 !merch | Information on merchandise | !points | Your current points and rank on leaderboard.
-!lastseen <username> | Information on <username> | !givepoints <username> | Transfer points to another user. 
-!leaderboard | See leaderboard URL. |  | 
-!littleedie | Latest quote from the @littleedie twitter bot. | | 
-!bigedie | Latest quote from the @bigedie twitter bot. |  | 
+!lastseen <username> | Information on <username> | !givepoints <username> | Transfer points to another user.
+!leaderboard | See leaderboard URL. |
+!littleedie | Latest quote from the @littleedie twitter bot. |
+!bigedie | Latest quote from the @bigedie twitter bot. |
 
 
 # Sounds (100 Points Each)
