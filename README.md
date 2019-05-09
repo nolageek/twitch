@@ -20,7 +20,7 @@ Host = 25pts |
  
 # Free Commands
 
-General CMDS | | Manage Points |
+## General CMDS /Manage Points
 Command | Title | Command | Title
 ------- | ------- | ------- | -------
 !merch | Information on merchandise | !points | Your current points and rank on leaderboard.
