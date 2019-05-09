@@ -38,7 +38,7 @@ Command | Title | Suggestion
 !run | "Run bitch, run!" | 
 !sad | *sad trombone* | 
 
-## Dead by Daylight
+### Dead by Daylight
 Command | Title | Suggestion
 ----- | ----- | -----
 !allstar | "Start your engines, best woman win" | Start of trial
