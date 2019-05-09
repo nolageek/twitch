@@ -21,7 +21,7 @@ Host = 25pts |
 # Free Commands
 
 General CMDS | Manage Points | |
-------- | ------- | |
+------- | ------- | ------- | -------
 !merch | Information on merchandise | !points | Your current points and rank on leaderboard.
 !lastseen <username> | Information on <username> | !givepoints <username> | Transfer points to another user. 
 !leaderboard | See leaderboard URL. |  | 
