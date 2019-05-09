@@ -37,7 +37,8 @@ Command | Title | Suggestion
 !run | "Run bitch, run!" |
 !sad | *sad trombone* |
 
-## Dead by Daylight | |
+## Dead by Daylight
+Command | Title | Suggestion
 ----- | ----- | -----
 !allstar | "Start your engines, best woman win" | Start of trial
 !reunited | *song clip* | While healing
@@ -47,6 +48,7 @@ Command | Title | Suggestion
 !trapper | "Here come's the trapper..." | Trapper
 
 ## Drag Race
+Command | Title | Suggestion
 ----- | ----- | -----
 !attitude | "Attitude check! (crickets)" 
 !hoyougo | "Ho you must go..." |
