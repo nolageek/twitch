@@ -20,13 +20,13 @@ Host = 25pts |
  
 # Free Commands
 
-General CMDS | Manage Points
-------- | -------
-!merch: Information on merchandise | !points: Your current points and rank on leaderboard.
-!lastseen <username>: Information on <username> | !givepoints <username>: Transfer points to another user. 
-!leaderboard: See leaderboard URL. | 
-!littleedie: Latest quote from the @littleedie twitter bot. |
-!bigedie: Latest quote from the @bigedie twitter bot. | 
+General CMDS | Manage Points | |
+------- | ------- | |
+!merch | Information on merchandise | !points | Your current points and rank on leaderboard.
+!lastseen <username> | Information on <username> | !givepoints <username> | Transfer points to another user. 
+!leaderboard | See leaderboard URL. |  | 
+!littleedie | Latest quote from the @littleedie twitter bot. | | 
+!bigedie | Latest quote from the @bigedie twitter bot. |  | 
 
 
 # Sounds (100 Points Each)
@@ -34,14 +34,14 @@ General CMDS | Manage Points
 ## General
 Command | Title | Suggestion
 ----- | ----- | -----
-!run | "Run bitch, run!" |
-!sad | *sad trombone* |
+!run | "Run bitch, run!" | 
+!sad | *sad trombone* | 
 
 ## Dead by Daylight
 Command | Title | Suggestion
 ----- | ----- | -----
 !allstar | "Start your engines, best woman win" | Start of trial
-!reunited | *song clip* | While healing
+!reunited | *song clip* | Healing
 !sexysax | *song clip* | Healing
 !snap | "snap out of it!" | Doctor
 !trap | "It's a trap!" | Trapper
@@ -50,10 +50,10 @@ Command | Title | Suggestion
 ## Drag Race
 Command | Title | Suggestion
 ----- | ----- | -----
-!attitude | "Attitude check! (crickets)" 
-!hoyougo | "Ho you must go..." |
-!herses | "She done already done..." |
-!shade | *shade sfx* |
+!attitude | "Attitude check! (crickets)" | 
+!hoyougo | "Ho you must go..." | 
+!herses | "She done already done..." | 
+!shade | *shade sfx* | 
 
 
 
