@@ -9,17 +9,11 @@ Follow = 100pts | $1 tip = 100 pts
 Host = 25pts |                                          
 
  
-
-
 ## Spend points on sounds and GIFs!
 
 100 IIP per sound/GIF.
 
- 
-
- 
-
-###Please don't spam.
+ **Please don't spam.**
 
 You can use the [editor on GitHub](https://github.com/nolageek/twitch/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
