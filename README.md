@@ -14,7 +14,47 @@ Host = 25pts |
 
 100 IIP per sound/GIF.
 
- **Please don't spam.**
+ > Please don't spam.
+ 
+ 
+ 
+# Free Commands
+
+General CMDS | Manage Points
+------- | -------
+!merch: Information on merchandise | !points: Your current points and rank on leaderboard.
+!lastseen <username>: Information on <username> | !givepoints <username>: Transfer points to another user. 
+!leaderboard: See leaderboard URL. | 
+!littleedie: Latest quote from the @littleedie twitter bot. |
+!bigedie: Latest quote from the @bigedie twitter bot. | 
+
+
+# Sounds (100 Points Each)
+
+## General
+Command | Title | Suggestion
+----- | ----- | -----
+!run | "Run bitch, run!" |
+!sad | *sad trombone* |
+
+## Dead by Daylight | |
+----- | ----- | -----
+!allstar | "Start your engines, best woman win" | Start of trial
+!reunited | *song clip* | While healing
+!sexysax | *song clip* | Healing
+!snap | "snap out of it!" | Doctor
+!trap | "It's a trap!" | Trapper
+!trapper | "Here come's the trapper..." | Trapper
+
+## Drag Race
+----- | ----- | -----
+!attitude | "Attitude check! (crickets)" 
+!hoyougo | "Ho you must go..." |
+!herses | "She done already done..." |
+!shade | *shade sfx* |
+
+
+
 
 You can use the [editor on GitHub](https://github.com/nolageek/twitch/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
