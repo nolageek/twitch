@@ -3,10 +3,12 @@
 ## Earn IIP by spending time in chat!
 
 15 points every 10 min (subs get 45)
----------------------------------------
-Sub = 500pts | 100 bits = 100 pts
-Follow = 100pts | $1 tip = 100 pts
-Host = 25pts |                                          
+
+Actions | Purchases
+------- | -------
+* Follow = 100pts | * 100 bits = 100 pts
+* Sub = 500pts | * $1 tip = 100 pts
+* Host = 25pts                         
 
  
 ## Spend points on sounds and GIFs!
