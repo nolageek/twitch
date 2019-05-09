@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## NOLAgeek Twitch Commands
 
 You can use the [editor on GitHub](https://github.com/nolageek/twitch/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
