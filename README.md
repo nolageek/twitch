@@ -6,10 +6,9 @@
 
 Actions | Purchases
 ------- | -------
-* Follow = 100pts | * 100 bits = 100 pts
-* Sub = 500pts | * $1 tip = 100 pts
-* Host = 25pts                         
-
+Follow = 100pts | 100 bits = 100 pts
+Sub = 500pts | $1 tip = 100 pts
+Host = 25pts |
  
 ## Spend points on sounds and GIFs!
 
