@@ -30,6 +30,12 @@ Command | Title | Command | Title
 !littleedie | Latest quote from the @littleedie twitter bot. | |
 !bigedie | Latest quote from the @bigedie twitter bot. | |
 !slap *username* *item* | Slap *username* with a *item* (single word) |
+
+
+### Dead by Daylight Commands
+
+Command | Title | Command | Title
+------- | ------- | ------- | -------
 !perk *perkname*| Get information on Dead by Daylight *perkname* | ex: !perk noed
 
 ---
