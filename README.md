@@ -1,8 +1,8 @@
 # Imaginary Internet Points
 
-### Earn Points by spending time in chat and other activities!!
+*  Earn Points by spending time in chat and other activities!!
 
-* 15 points every 10 min (subs get 45!)
+15 points every 10 min (subs get 45!)
 
 Actions | Purchases
 ------- | -------
@@ -10,17 +10,15 @@ Follow = 100pts | 100 bits = 100 pts
 Sub = 500pts | $1 tip = 100 pts
 Host = 25pts |
  
-### Spend points on sounds and GIFs!
+* Spend points on sounds and GIFs!
 
-* 100 points per sound/GIF.
+100 points per sound/GIF.
 
-#### Please don't spam.
+* Please don't spam.
  
  ---
  
 # Free Commands
-
-### General CMDS / Manage Points
 
 Command | Description 
 ------- | ------- 
@@ -67,6 +65,7 @@ Command | Description | Suggestion
 `!allstar` | "Start your engines, may best woman win" | Start of Game
 `!reunited` | *song clip* | Healing or Finding other players
 `!sexysax` | *song clip* | Healing or Finding other players
+* Test |  |
 `!snap` | *"snap out of it!"* | Doctor
 `!trap` | *"It's a trap!"* | Trapper
 `!trapper` | *"Here come's the trapper..."* | Trapper
