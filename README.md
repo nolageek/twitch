@@ -24,7 +24,7 @@ Host = 25pts |
 Command | Description 
 ------- | ------- 
 **General Commands** |
-!merch | Information on merchandise
+!merch | Information on my **Dead by Daylight** inspired t-shirts.
 !seen `user` | Information on `user`
 !uptime | How long has nolageek been streaming
 !littleedie | Latest quote from the `littleedie` twitter bot
