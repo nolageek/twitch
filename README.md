@@ -16,7 +16,7 @@ Host = 25pts |
 
 #### Please don't spam.
  
- 
+ ---
  
 # Free Commands
 
@@ -30,6 +30,7 @@ Command | Title | Command | Title
 !littleedie | Latest quote from the @littleedie twitter bot. | |
 !bigedie | Latest quote from the @bigedie twitter bot. | |
 
+---
 
 # Sounds (100 Points Each)
 
@@ -60,5 +61,6 @@ Command | Title | Suggestion
 !herses | *"She done already done had herses"* | 
 !shade | *shade sfx* | 
 
+---
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
