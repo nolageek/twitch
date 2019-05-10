@@ -26,16 +26,16 @@ Command | Description
 ------- | ------- 
 **General Commands** |
 !merch | Information on merchandise
-!seen `*username*` | Information on `*username*`
+!seen `username` | Information on `username`
 !uptime | How long has nolageek been streaming
- | 
-**Points Management** |
-!points | Your current points and rank on leaderboard.
-!givepoints *username* | Transfer points to another user 
-!leaderboard | See leaderboard URL.
 !littleedie | Latest quote from the @littleedie twitter bot.
 !bigedie | Latest quote from the @bigedie twitter bot. 
 !slap `username` `item` | Slap `username` with a `item` (single word)
+ | 
+**Points Management** |
+!points | Your current points and rank on leaderboard.
+!givepoints `username` | Transfer points to `username` 
+!leaderboard | See leaderboard URL.
  | 
 **Dead by Daylight** |
 !perk `perkname` | Get information on Dead by Daylight `perkname`. ex: !perk noed
