@@ -25,15 +25,15 @@ Host = 25pts |
 Command | Description 
 ------- | ------- 
 `General Commands` |
-!merch | Information on merchandise |
-!lastseen *username* | Information on *username* | 
-`Points Management`
+!merch | Information on merchandise
+!lastseen *username* | Information on *username*
+`Points Management` |
 !points | Your current points and rank on leaderboard.
 !givepoints *username* | Transfer points to another user 
-!leaderboard | See leaderboard URL. | |
-!littleedie | Latest quote from the @littleedie twitter bot. | |
-!bigedie | Latest quote from the @bigedie twitter bot. | |
-!slap *username* *item* | Slap *username* with a *item* (single word) | |
+!leaderboard | See leaderboard URL.
+!littleedie | Latest quote from the @littleedie twitter bot.
+!bigedie | Latest quote from the @bigedie twitter bot. 
+!slap *username* *item* | Slap *username* with a *item* (single word)
 `Dead by Daylight`|
 !perk *perkname* | Get information on Dead by Daylight *perkname*. ex: !perk noed
 !jc | Adds +1 to the Blaspheme counter when nolageek gets jump scared.
