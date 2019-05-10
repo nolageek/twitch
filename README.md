@@ -34,6 +34,7 @@ Command | Description
 !bigedie | Latest quote from the @bigedie twitter bot. | |
 !slap *username* *item* | Slap *username* with a *item* (single word) | |
 :small_red_triangle:**Dead by Daylight** |
+------- | ------- 
 !perk *perkname* | Get information on Dead by Daylight *perkname*. ex: !perk noed
 !jc | Adds +1 to the Blaspheme counter when nolageek gets jump scared.
 !locker | Adds +1 to the locker counter when nolageek hides in a locker
