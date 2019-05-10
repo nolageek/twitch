@@ -1,6 +1,6 @@
 # Imaginary Internet Points
 
-### Earn IIP by spending time in chat and other activities!!
+### Earn Points by spending time in chat and other activities!!
 
 15 points every 10 min (subs get 45!)
 
@@ -40,7 +40,8 @@ Command | Title | Command | Title
 
 ---
 
-# Sounds (100 Points Each)
+# Sounds 
+#### (100 Points Each)
 
 Although sounds are grouped with games and may include suggestions for when they could be used, they are available at any time. Be creative, just please don't spam them for no reason.
 
