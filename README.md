@@ -53,7 +53,7 @@ Command | Description
 # Sounds 
 100 Points Each
 
->> Although sounds are grouped with games and may include suggestions for when they could be used, they are available at any time. Be creative, just please don't spam them for no reason.
+```Although sounds are grouped with games and may include suggestions for when they could be used, they are available at any time. Be creative, just please don't spam them for no reason.```
 
 Command | Description | Suggestion
 ----- | ----- | -----
@@ -64,6 +64,7 @@ Command | Description | Suggestion
 **Dead by Daylight** | |
 `!allstar` | "Start your engines, may best woman win" | Start of Game
 `!reunited` | *song clip* | Healing or Finding other players
+
 `!sexysax` | *song clip* | Healing or Finding other players
 `!snap` | *"snap out of it!"* | Doctor
 `!trap` | *"It's a trap!"* | Trapper
