@@ -36,15 +36,15 @@ Command | Description
 !points | Your current points and rank on leaderboard.
 !givepoints `user` | Transfer points to `user` 
 !leaderboard | See leaderboard URL.
-  |
+ . |
 **Dead by Daylight** |
 !perk `perkname` | Get information on Dead by Daylight `perkname`. ex: !perk noed
 !jc | Adds +1 to the Blaspheme counter when nolageek gets jump scared.
 !locker | Adds +1 to the locker counter when nolageek hides in a locker
- |
+  |
 **Dying Light** |
 !docket | Link to new docket announcements on twitter
- |
+  |
 **Stardew Valley** |
 !faint | Adds +1 to the faint counter when nolageek has fainted!
 
