@@ -61,7 +61,7 @@ Command | Description | Suggestion
 !run | *"Run bitch, run!"* | Someone is getting chased
 !sad | *sad trombone* | Someone is ded.
  | 
-**Dead by Daylight**
+**Dead by Daylight** |
 `!allstar` | "Start your engines, may best woman win" | Start of Game
 `!reunited` | *song clip* | Healing or Finding other players
 `!sexysax` | *song clip* | Healing or Finding other players
