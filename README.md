@@ -24,7 +24,7 @@ Host = 25pts |
 
 Command | Description 
 ------- | ------- 
-:small_red_triangle: General Commands |
+:small_red_triangle:**General Commands** |
 !merch | Information on merchandise |
 !lastseen *username* | Information on *username* | 
 !points | Your current points and rank on leaderboard.
@@ -33,13 +33,13 @@ Command | Description
 !littleedie | Latest quote from the @littleedie twitter bot. | |
 !bigedie | Latest quote from the @bigedie twitter bot. | |
 !slap *username* *item* | Slap *username* with a *item* (single word) | |
-:small_red_triangle: **Dead by Daylight** |
+:small_red_triangle:**Dead by Daylight** |
 !perk *perkname* | Get information on Dead by Daylight *perkname*. ex: !perk noed
 !jc | Adds +1 to the Blaspheme counter when nolageek gets jump scared.
 !locker | Adds +1 to the locker counter when nolageek hides in a locker
-:small_red_triangle: Dying Light |
+:small_red_triangle:**Dying Light** |
 !docket | Link to new docket announcements on twitter
-:small_red_triangle: Stardew Valley |
+:small_red_triangle:**Stardew Valley** |
 !faint | Adds +1 to the faint counter when nolageek has stayed out too late and has fainted!
 
 ---
