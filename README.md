@@ -2,7 +2,7 @@
 
 ### Earn Points by spending time in chat and other activities!!
 
-15 points every 10 min (subs get 45!)
+* 15 points every 10 min (subs get 45!)
 
 Actions | Purchases
 ------- | -------
@@ -12,7 +12,7 @@ Host = 25pts |
  
 ### Spend points on sounds and GIFs!
 
-100 points per sound/GIF.
+* 100 points per sound/GIF.
 
 #### Please don't spam.
  
@@ -31,7 +31,7 @@ Command | Description
 !littleedie | Latest quote from the `littleedie` twitter bot
 !bigedie | Latest quote from the `bigedie` twitter bot
 !slap `user` `item` | Slap `user` with a `item` (single word)
-  |
+ |
 **Point Management** |
 !points | Your current points and rank on leaderboard.
 !givepoints `user` | Transfer points to `user` 
@@ -52,7 +52,9 @@ Command | Description
 
 # Sounds 
 
-> ``100 Points Each`` Although sounds are grouped with games and may include suggestions for when they
+> ``100 Points Each``
+>
+> Although sounds are grouped with games and may include suggestions for when they
 > could be used, they are available at any time. Be creative, just please don't spam them for no reason.
 
 Command | Description | Suggestion
