@@ -17,8 +17,7 @@ Host = 25pts |
 #### Please don't spam.
  
 <p align="center">:small_red_triangle_down:</p>
-```
-```
+
  
 # Free Commands
 
@@ -55,8 +54,11 @@ Command | Description
 
 * 100 Points Each
 
-```Although sounds are grouped with games and may include suggestions for when they could be 
-used, they are available at any time. Be creative, just please don't spam them for no reason.
+```
+Although sounds are grouped with games
+and may include suggestions for when they could be 
+used, they are available at any time. Be creative, 
+just please don't spam them for no reason.
 ```
 
 * Although sounds are grouped with games and may include suggestions for when they could be 
