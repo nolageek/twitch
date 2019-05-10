@@ -16,6 +16,7 @@ Host = 25pts |
 
 #### Please don't spam.
  
+ <p align="center">:red_circle:</p>
  ---
  
 # Free Commands
