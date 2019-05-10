@@ -26,7 +26,8 @@ Command | Description | Command | Description
 ------- | ------- | ------- | -------
 !merch | Information on merchandise | !points | Your current points and rank on leaderboard.
 !lastseen *username* | Information on *username* | !givepoints *username* | Transfer points to another user.
-_*test*_ |
+test |
+--- |
 !leaderboard | See leaderboard URL. | |
 !littleedie | Latest quote from the @littleedie twitter bot. | |
 !bigedie | Latest quote from the @bigedie twitter bot. | |
