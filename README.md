@@ -12,7 +12,7 @@ Host = 25pts |
  
 ### Spend points on sounds and GIFs!
 
-100 IIP per sound/GIF.
+100 points per sound/GIF.
 
 #### Please don't spam.
  
@@ -26,15 +26,15 @@ Command | Description
 ------- | ------- 
 **General Commands** |
 !merch | Information on merchandise
-!seen `username` | Information on `username`
+!seen `user` | Information on `user`
 !uptime | How long has nolageek been streaming
 !littleedie | Latest quote from the `littleedie` twitter bot
 !bigedie | Latest quote from the `bigedie` twitter bot
-!slap `username` `item` | Slap `username` with a `item` (single word)
+!slap `user` `item` | Slap `user` with a `item` (single word)
  | 
-**Points Management** |
+**Point Management** |
 !points | Your current points and rank on leaderboard.
-!givepoints `username` | Transfer points to `username` 
+!givepoints `user` | Transfer points to `user` 
 !leaderboard | See leaderboard URL.
  | 
 **Dead by Daylight** |
@@ -51,9 +51,9 @@ Command | Description
 ---
 
 # Sounds 
-##### (100 Points Each)
+100 Points Each
 
-> Although sounds are grouped with games and may include suggestions for when they could be used, they are available at any time. Be creative, just please don't spam them for no reason.
+>> Although sounds are grouped with games and may include suggestions for when they could be used, they are available at any time. Be creative, just please don't spam them for no reason.
 
 Command | Description | Suggestion
 ----- | ----- | -----
