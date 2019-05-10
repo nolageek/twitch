@@ -59,7 +59,7 @@ Command | Description
 
 Command | Description | Suggestion
 ----- | ----- | -----
-**General** | |
+**General Sounds** | |
 !run | *"Run bitch, run!"* | Someone is getting chased
 !sad | **sad trombone** | Someone is ded
  | |
