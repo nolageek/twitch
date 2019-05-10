@@ -28,8 +28,8 @@ Command | Description
 !merch | Information on merchandise
 !seen `username` | Information on `username`
 !uptime | How long has nolageek been streaming
-!littleedie | Latest quote from the @littleedie twitter bot.
-!bigedie | Latest quote from the @bigedie twitter bot. 
+!littleedie | Latest quote from the `littleedie` twitter bot
+!bigedie | Latest quote from the `bigedie` twitter bot
 !slap `username` `item` | Slap `username` with a `item` (single word)
  | 
 **Points Management** |
