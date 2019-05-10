@@ -2,7 +2,7 @@
 
 ## Earn IIP by spending time in chat!
 
-15 points every 10 min (subs get 45)
+15 points every 10 min (subs get 45!)
 
 Actions | Purchases
 ------- | -------
