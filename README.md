@@ -26,7 +26,7 @@ Command | Description
 ------- | ------- 
 **General Commands** |
 !merch | Information on merchandise
-!lastseen `*username*` | Information on `*username*`
+!seen `*username*` | Information on `*username*`
  | 
 **Points Management** |
 !points | Your current points and rank on leaderboard.
