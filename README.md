@@ -14,7 +14,7 @@ Host = 25pts |
 
 100 IIP per sound/GIF.
 
- > Please don't spam.
+__**Please don't spam.**__
  
  
  
@@ -37,8 +37,8 @@ Command | Title | Command | Title
 
 Command | Title | Suggestion
 ----- | ----- | -----
-!run | "Run bitch, run!" | 
-!sad | *sad trombone* | 
+!run | *"Run bitch, run!"* | Someone is getting chased
+!sad | *sad trombone* | Someone ded.
 
 ### Dead by Daylight
 
@@ -47,9 +47,9 @@ Command | Title | Suggestion
 !allstar | "Start your engines, best woman win" | Start of trial
 !reunited | *song clip* | Healing
 !sexysax | *song clip* | Healing
-!snap | "snap out of it!" | Doctor
-!trap | "It's a trap!" | Trapper
-!trapper | "Here come's the trapper..." | Trapper
+!snap | *"snap out of it!"* | Doctor
+!trap | *"It's a trap!"* | Trapper
+!trapper | *"Here come's the trapper..."* | Trapper
 
 ## Drag Race
 
@@ -57,7 +57,7 @@ Command | Title | Suggestion
 ----- | ----- | -----
 !attitude | "Attitude check! (crickets)" | 
 !hoyougo | "Ho you must go..." | 
-!herses | "She done already done..." | 
+!herses | "She done already done had herses" | 
 !shade | *shade sfx* | 
 
 
