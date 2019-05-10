@@ -51,7 +51,7 @@ Command | Description
 ---
 
 # Sounds 
-#### (100 Points Each)
+##### (100 Points Each)
 
 > Although sounds are grouped with games and may include suggestions for when they could be used, they are available at any time. Be creative, just please don't spam them for no reason.
 
