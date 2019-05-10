@@ -30,12 +30,13 @@ Command | Title | Command | Title
 !littleedie | Latest quote from the @littleedie twitter bot. | |
 !bigedie | Latest quote from the @bigedie twitter bot. | |
 !slap *username* *item* | Slap *username* with a *item* (single word) |
+!perk *perkname*| Get information on Dead by Daylight *perkname* | ex: !perk noed
 
 ---
 
 # Sounds (100 Points Each)
 
-Although sounds are grouped with games and may include suggestions for when they could be used, they are available at any time. Be creative, just don't spam them for no reason.
+Although sounds are grouped with games and may include suggestions for when they could be used, they are available at any time. Be creative, just please don't spam them for no reason.
 
 ### General
 
@@ -49,7 +50,6 @@ Command | Title | Suggestion
 
 Command | Title | Suggestions / Info
 ----- | ----- | -----
-!perk *perkname*| Get information on *perkname* | ex: !perk noed
 !allstar | "Start your engines, may best woman win" | Start of Game
 !reunited | *song clip* | Healing or Finding other players
 !sexysax | *song clip* | Healing or Finding other players
