@@ -25,6 +25,7 @@ Command | Description
 ------- | ------- 
 **General Commands** |
 !merch | Information on my **Dead by Daylight** inspired t-shirts.
+!lurk | Let nolageek know you're lurking. (Please mute your tab, not the vid itself.)
 !seen `user` | Information on `user`
 !uptime | How long has nolageek been streaming
 !littleedie | Latest quote from the `littleedie` twitter bot
