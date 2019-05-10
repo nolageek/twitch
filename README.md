@@ -4,7 +4,7 @@
 
 * 15 points every 10 min (subs get 45!)
 
-Actions | Bits
+Events | Bits
 ------- | -------
 Follow = 100pts | 100 bits = 100 pts
 Sub = 500pts |
