@@ -46,7 +46,7 @@ Command | Description
 !docket | Link to new docket announcements on twitter
  | 
 **Stardew Valley** |
-!faint | Adds +1 to the faint counter when nolageek has stayed out too late and has fainted!
+!faint | Adds +1 to the faint counter when nolageek has fainted!
 
 ---
 
