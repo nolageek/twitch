@@ -22,21 +22,17 @@ Host = 25pts |
 
 ### General CMDS / Manage Points
 
-Command | Description | Command | Description
-------- | ------- | ------- | -------
-!merch | Information on merchandise | !points | Your current points and rank on leaderboard.
-!lastseen *username* | Information on *username* | !givepoints *username* | Transfer points to another user.
-**test** |
+Command | Description 
+------- | ------- 
+!merch | Information on merchandise |
+!lastseen *username* | Information on *username* | 
+!points | Your current points and rank on leaderboard.
+!givepoints *username* | Transfer points to another user 
 !leaderboard | See leaderboard URL. | |
 !littleedie | Latest quote from the @littleedie twitter bot. | |
 !bigedie | Latest quote from the @bigedie twitter bot. | |
 !slap *username* *item* | Slap *username* with a *item* (single word) | |
-
-
-### Dead by Daylight Commands
-
-Command | Description 
-------- | -------
+**Dead by Daylight** |
 !perk *perkname* | Get information on Dead by Daylight *perkname*. ex: !perk noed
 !jc | Adds +1 to the Blaspheme counter when nolageek gets jump scared.
 !locker | Adds +1 to the locker counter when nolageek hides in a locker
