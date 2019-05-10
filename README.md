@@ -31,8 +31,6 @@ Command | Description
 !littleedie | Latest quote from the `littleedie` twitter bot
 !bigedie | Latest quote from the `bigedie` twitter bot
 !slap `user` `item` | Slap `user` with a `item` (single word)
-| 
-**Point Management** |
 !points | Your current points and rank on leaderboard.
 !givepoints `user` | Transfer points to `user` 
 !leaderboard | See leaderboard URL.
@@ -53,7 +51,8 @@ Command | Description
 # Sounds 
 100 Points Each
 
-```Although sounds are grouped with games and may include suggestions for when they could be used, they are available at any time. Be creative, just please don't spam them for no reason.```
+> Although sounds are grouped with games and may include suggestions for when they could be 
+> used, they are available at any time. Be creative, just please don't spam them for no reason.
 
 Command | Description | Suggestion
 ----- | ----- | -----
