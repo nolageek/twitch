@@ -27,6 +27,7 @@ Command | Description
 **General Commands** |
 !merch | Information on merchandise
 !seen `*username*` | Information on `*username*`
+!uptime | How long has nolageek been streaming?
  | 
 **Points Management** |
 !points | Your current points and rank on leaderboard.
@@ -54,23 +55,20 @@ Command | Description
 
 > Although sounds are grouped with games and may include suggestions for when they could be used, they are available at any time. Be creative, just please don't spam them for no reason.
 
-### General
-
 Command | Description | Suggestion
 ----- | ----- | -----
+**General** |
 !run | *"Run bitch, run!"* | Someone is getting chased
 !sad | *sad trombone* | Someone is ded.
-
-### Dead by Daylight
-
-Command | Description | Suggestions
------ | ----- | -----
+ | 
+**Dead by Daylight**
 `!allstar` | "Start your engines, may best woman win" | Start of Game
 `!reunited` | *song clip* | Healing or Finding other players
 `!sexysax` | *song clip* | Healing or Finding other players
 `!snap` | *"snap out of it!"* | Doctor
 `!trap` | *"It's a trap!"* | Trapper
 `!trapper` | *"Here come's the trapper..."* | Trapper
+  | 
 **Drag Race** |
 `!allstar` | "Start your engines, may best woman win" | Start of Game
 `!attitude` | *"Attitude check! (crickets)"* | 
