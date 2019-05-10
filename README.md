@@ -29,14 +29,28 @@ Command | Title | Command | Title
 !leaderboard | See leaderboard URL. | |
 !littleedie | Latest quote from the @littleedie twitter bot. | |
 !bigedie | Latest quote from the @bigedie twitter bot. | |
-!slap *username* *item* | Slap *username* with a *item* (single word) |
+!slap *username* *item* | Slap *username* with a *item* (single word) | |
 
 
 ### Dead by Daylight Commands
 
-Command | Title | Command | Title
-------- | ------- | ------- | -------
-!perk *perkname*| Get information on Dead by Daylight *perkname* | ex: !perk noed
+Command | Description 
+------- | -------
+!perk *perkname* | Get information on Dead by Daylight *perkname*. ex: !perk noed
+!jc | Adds +1 to the Blaspheme counter when nolageek gets jump scared.
+!locker | Adds +1 to the locker counter when nolageek hides in a locker
+
+### Dying Light Commands
+
+Command | Description 
+----- | -----
+!docket | Link to new docket announcements on twitter
+
+### Stardew Valley
+
+Command | Description 
+----- | -----
+!faint | Adds +1 to the faint counter when nolageek has stayed out too late and has fainted!
 
 ---
 
@@ -51,7 +65,6 @@ Command | Title | Suggestion
 ----- | ----- | -----
 !run | *"Run bitch, run!"* | Someone is getting chased
 !sad | *sad trombone* | Someone is ded.
-!jc | Add +1 to the Blaspheme counter when nolageek gets jump scared. |
 
 ### Dead by Daylight
 
@@ -60,22 +73,9 @@ Command | Title | Suggestions / Info
 !allstar | "Start your engines, may best woman win" | Start of Game
 !reunited | *song clip* | Healing or Finding other players
 !sexysax | *song clip* | Healing or Finding other players
-!locker | nolageek hides in a locker |
 !snap | *"snap out of it!"* | Doctor
 !trap | *"It's a trap!"* | Trapper
 !trapper | *"Here come's the trapper..."* | Trapper
-
-### Dying Light
-
-Command | Title | Suggestion
------ | ----- | -----
-!docket | Link to new docket announcement.
-
-### Stardew Valley
-
-Command | Title | Suggestion
------ | ----- | -----
-!faint | nolageek has stayed out too late and fainted!
 
 ### Drag Race
 
