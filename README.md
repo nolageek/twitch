@@ -21,6 +21,7 @@ Host = 25pts |
 # Free Commands
 
 ## General CMDS / Manage Points
+
 Command | Title | Command | Title
 ------- | ------- | ------- | -------
 !merch | Information on merchandise | !points | Your current points and rank on leaderboard.
@@ -33,12 +34,14 @@ Command | Title | Command | Title
 # Sounds (100 Points Each)
 
 ## General
+
 Command | Title | Suggestion
 ----- | ----- | -----
 !run | "Run bitch, run!" | 
 !sad | *sad trombone* | 
 
 ### Dead by Daylight
+
 Command | Title | Suggestion
 ----- | ----- | -----
 !allstar | "Start your engines, best woman win" | Start of trial
@@ -49,6 +52,7 @@ Command | Title | Suggestion
 !trapper | "Here come's the trapper..." | Trapper
 
 ## Drag Race
+
 Command | Title | Suggestion
 ----- | ----- | -----
 !attitude | "Attitude check! (crickets)" | 
