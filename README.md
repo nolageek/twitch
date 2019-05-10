@@ -31,7 +31,7 @@ Command | Description
 !littleedie | Latest quote from the `littleedie` twitter bot
 !bigedie | Latest quote from the `bigedie` twitter bot
 !slap `user` `item` | Slap `user` with a `item` (single word)
- | 
+| 
 **Point Management** |
 !points | Your current points and rank on leaderboard.
 !givepoints `user` | Transfer points to `user` 
@@ -64,7 +64,6 @@ Command | Description | Suggestion
 **Dead by Daylight** | |
 `!allstar` | "Start your engines, may best woman win" | Start of Game
 `!reunited` | *song clip* | Healing or Finding other players
-
 `!sexysax` | *song clip* | Healing or Finding other players
 `!snap` | *"snap out of it!"* | Doctor
 `!trap` | *"It's a trap!"* | Trapper
