@@ -20,7 +20,7 @@ __**Please don't spam.**__
  
 # Free Commands
 
-## General CMDS / Manage Points
+### General CMDS / Manage Points
 
 Command | Title | Command | Title
 ------- | ------- | ------- | -------
@@ -33,14 +33,14 @@ Command | Title | Command | Title
 
 # Sounds (100 Points Each)
 
-## General
+### General
 
 Command | Title | Suggestion
 ----- | ----- | -----
 !run | *"Run bitch, run!"* | Someone is getting chased
-!sad | *sad trombone* | Someone ded.
+!sad | *sad trombone* | Someone is ded.
 
-## Dead by Daylight
+### Dead by Daylight
 
 Command | Title | Suggestion
 ----- | ----- | -----
@@ -51,7 +51,7 @@ Command | Title | Suggestion
 !trap | *"It's a trap!"* | Trapper
 !trapper | *"Here come's the trapper..."* | Trapper
 
-## Drag Race
+### Drag Race
 
 Command | Title | Suggestion
 ----- | ----- | -----
