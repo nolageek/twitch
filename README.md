@@ -34,10 +34,10 @@ Command | Description
 !leaderboard | See leaderboard URL.
 !littleedie | Latest quote from the @littleedie twitter bot.
 !bigedie | Latest quote from the @bigedie twitter bot. 
-!slap `*username*` *item*`` | Slap `*username*` with a `*item*` (single word)
+!slap `username` `item` | Slap `username` with a `item` (single word)
  | 
 **Dead by Daylight** |
-!perk *perkname* | Get information on Dead by Daylight *perkname*. ex: !perk noed
+!perk `perkname` | Get information on Dead by Daylight `perkname`. ex: !perk noed
 !jc | Adds +1 to the Blaspheme counter when nolageek gets jump scared.
 !locker | Adds +1 to the locker counter when nolageek hides in a locker
  | 
