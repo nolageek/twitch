@@ -61,24 +61,20 @@ Command | Description | Suggestion
 
 Command | Description | Suggestions
 ----- | ----- | -----
-!allstar | "Start your engines, may best woman win" | Start of Game
-!reunited | *song clip* | Healing or Finding other players
-!sexysax | *song clip* | Healing or Finding other players
-!snap | *"snap out of it!"* | Doctor
-!trap | *"It's a trap!"* | Trapper
-!trapper | *"Here come's the trapper..."* | Trapper
-
-### Drag Race
-
-Command | Description | Suggestion
------ | ----- | -----
-!allstar | "Start your engines, may best woman win" | Start of Game
-!attitude | *"Attitude check! (crickets)"* | 
-!hoyougo | *"Ho you must go..."* | 
-!herses | *"She done already done had herses"* | 
-!shade | *shade sfx* | 
-!silky | Random silky quote |
-!rupaul | Random rupaul sound |
+`!allstar` | "Start your engines, may best woman win" | Start of Game
+`!reunited` | *song clip* | Healing or Finding other players
+`!sexysax` | *song clip* | Healing or Finding other players
+`!snap` | *"snap out of it!"* | Doctor
+`!trap` | *"It's a trap!"* | Trapper
+`!trapper` | *"Here come's the trapper..."* | Trapper
+**Drag Race** |
+`!allstar` | "Start your engines, may best woman win" | Start of Game
+`!attitude` | *"Attitude check! (crickets)"* | 
+`!hoyougo` | *"Ho you must go..."* | 
+`!herses` | *"She done already done had herses"* | 
+`!shade` | *shade sfx* | 
+`!silky` | Random silky quote |
+`!rupaul` | Random rupaul sound |
 
 ---
 
