@@ -27,7 +27,7 @@ Command | Description
 **General Commands** |
 !merch | Information on merchandise
 !seen `*username*` | Information on `*username*`
-!uptime | How long has nolageek been streaming?
+!uptime | How long has nolageek been streaming
  | 
 **Points Management** |
 !points | Your current points and rank on leaderboard.
