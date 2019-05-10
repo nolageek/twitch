@@ -4,10 +4,10 @@
 
 * 15 points every 10 min (subs get 45!)
 
-Actions | Purchases
+Actions | Bits
 ------- | -------
 Follow = 100pts | 100 bits = 100 pts
-Sub = 500pts | $1 tip = 100 pts
+Sub = 500pts |
 Host = 25pts |
  
 ### Spend points on sounds and GIFs!
