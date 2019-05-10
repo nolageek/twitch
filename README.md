@@ -55,9 +55,9 @@ Command | Title | Suggestion
 
 Command | Title | Suggestion
 ----- | ----- | -----
-!attitude | "Attitude check! (crickets)" | 
-!hoyougo | "Ho you must go..." | 
-!herses | "She done already done had herses" | 
+!attitude | *"Attitude check! (crickets)"* | 
+!hoyougo | *"Ho you must go..."* | 
+!herses | *"She done already done had herses"* | 
 !shade | *shade sfx* | 
 
 
