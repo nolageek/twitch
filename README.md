@@ -29,10 +29,13 @@ Command | Title | Command | Title
 !leaderboard | See leaderboard URL. | |
 !littleedie | Latest quote from the @littleedie twitter bot. | |
 !bigedie | Latest quote from the @bigedie twitter bot. | |
+!slap *username* *item* | Slap *username* with a *item* (single word) |
 
 ---
 
 # Sounds (100 Points Each)
+
+Although sounds are grouped with games and may include suggestions for when they could be used, they are available at any time. Be creative, just don't spam them for no reason.
 
 ### General
 
@@ -40,26 +43,44 @@ Command | Title | Suggestion
 ----- | ----- | -----
 !run | *"Run bitch, run!"* | Someone is getting chased
 !sad | *sad trombone* | Someone is ded.
+!jc | Add +1 to the Blaspheme counter when nolageek gets jump scared. |
 
 ### Dead by Daylight
 
-Command | Title | Suggestion
+Command | Title | Suggestions / Info
 ----- | ----- | -----
-!allstar | "Start your engines, best woman win" | Start of trial
-!reunited | *song clip* | Healing
-!sexysax | *song clip* | Healing
+!perk *perkname*| Get information on *perkname* | ex: !perk noed
+!allstar | "Start your engines, may best woman win" | Start of Game
+!reunited | *song clip* | Healing or Finding other players
+!sexysax | *song clip* | Healing or Finding other players
+!locker | nolageek hides in a locker |
 !snap | *"snap out of it!"* | Doctor
 !trap | *"It's a trap!"* | Trapper
 !trapper | *"Here come's the trapper..."* | Trapper
+
+### Dying Light
+
+Command | Title | Suggestion
+----- | ----- | -----
+!docket | Link to new docket announcement.
+
+### Stardew Valley
+
+Command | Title | Suggestion
+----- | ----- | -----
+!faint | nolageek has stayed out too late and fainted!
 
 ### Drag Race
 
 Command | Title | Suggestion
 ----- | ----- | -----
+!allstar | "Start your engines, may best woman win" | Start of Game
 !attitude | *"Attitude check! (crickets)"* | 
 !hoyougo | *"Ho you must go..."* | 
 !herses | *"She done already done had herses"* | 
 !shade | *shade sfx* | 
+!silky | Random silky quote |
+!rupaul | Random rupaul sound |
 
 ---
 
