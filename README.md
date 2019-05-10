@@ -1,6 +1,6 @@
 # Imaginary Internet Points
 
-## Earn IIP by spending time in chat!
+### Earn IIP by spending time in chat and other activities!!
 
 15 points every 10 min (subs get 45!)
 
@@ -10,11 +10,11 @@ Follow = 100pts | 100 bits = 100 pts
 Sub = 500pts | $1 tip = 100 pts
 Host = 25pts |
  
-## Spend points on sounds and GIFs!
+### Spend points on sounds and GIFs!
 
 100 IIP per sound/GIF.
 
-__**Please don't spam.**__
+#### Please don't spam.
  
  
  
