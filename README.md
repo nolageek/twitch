@@ -22,10 +22,11 @@ Host = 25pts |
 
 ### General CMDS / Manage Points
 
-Command | Title | Command | Title
+Command | Description | Command | Description
 ------- | ------- | ------- | -------
 !merch | Information on merchandise | !points | Your current points and rank on leaderboard.
 !lastseen *username* | Information on *username* | !givepoints *username* | Transfer points to another user.
+#### test |
 !leaderboard | See leaderboard URL. | |
 !littleedie | Latest quote from the @littleedie twitter bot. | |
 !bigedie | Latest quote from the @bigedie twitter bot. | |
@@ -61,14 +62,14 @@ Command | Description
 
 ### General
 
-Command | Title | Suggestion
+Command | Description | Suggestion
 ----- | ----- | -----
 !run | *"Run bitch, run!"* | Someone is getting chased
 !sad | *sad trombone* | Someone is ded.
 
 ### Dead by Daylight
 
-Command | Title | Suggestions / Info
+Command | Description | Suggestions
 ----- | ----- | -----
 !allstar | "Start your engines, may best woman win" | Start of Game
 !reunited | *song clip* | Healing or Finding other players
@@ -79,7 +80,7 @@ Command | Title | Suggestions / Info
 
 ### Drag Race
 
-Command | Title | Suggestion
+Command | Description | Suggestion
 ----- | ----- | -----
 !allstar | "Start your engines, may best woman win" | Start of Game
 !attitude | *"Attitude check! (crickets)"* | 
