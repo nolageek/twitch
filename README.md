@@ -48,13 +48,15 @@ Command | Description
 **Stardew Valley** |
 !faint | Adds +1 to the faint counter when nolageek has fainted!
 
----
+<p align="center">:small_red_triangle_down:</p>
+
 
 # Sounds 
 
 * 100 Points Each``
 
-> Although sounds are grouped with games and may include suggestions for when they could be used, they are available at any time. Be creative, just please don't spam them for no reason.
+```Although sounds are grouped with games and may include suggestions for when they could be used, they are available at any time. Be creative, just please don't spam them for no reason.
+```
 
 Command | Description | Suggestion
 ----- | ----- | -----
