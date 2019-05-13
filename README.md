@@ -27,17 +27,19 @@ Command | Description
 !merch | Information on my **Dead by Daylight** inspired t-shirts.
 !lurk | Let nolageek know you're lurking. (Please mute your tab, not the vid itself.)
 !seen `user` | Information on `user`
+!vod | Link to my last stream's VOD
+!song | Current/Last song played on Spotify
 !uptime | How long has nolageek been streaming
 !littleedie | Latest quote from the `littleedie` twitter bot
 !bigedie | Latest quote from the `bigedie` twitter bot
-!slap `user` `item` | Slap `user` with a `item` (single word)
+!slap `user` `item` | Slap `user` with a `item` (sigle word)
 !lydia | Lydia makes an appearance on stream.
-!jc | Adds +1 to the `jesus` counter when nolageek gets jump scared.
+!jc | Adds +1 to the `jesus` counter when nolageek gets jump scared
 |
 **Point Management** |
-!points | Your current points and rank on leaderboard.
+!points | Your current points and rank on leaderboard
 !givepoints `user` | Transfer points to `user` 
-!leaderboard | See leaderboard URL.
+!leaderboard | See leaderboard URL
  |
 **Dead by Daylight** |
 !perk `perkname` | Get information on Dead by Daylight `perkname`. ex: !perk noed
