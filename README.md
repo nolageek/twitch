@@ -31,7 +31,9 @@ Command | Description
 !littleedie | Latest quote from the `littleedie` twitter bot
 !bigedie | Latest quote from the `bigedie` twitter bot
 !slap `user` `item` | Slap `user` with a `item` (single word)
- |
+!lydia | Lydia makes an appearance on stream.
+!jc | Adds +1 to the `jesus` counter when nolageek gets jump scared.
+|
 **Point Management** |
 !points | Your current points and rank on leaderboard.
 !givepoints `user` | Transfer points to `user` 
@@ -39,7 +41,6 @@ Command | Description
  |
 **Dead by Daylight** |
 !perk `perkname` | Get information on Dead by Daylight `perkname`. ex: !perk noed
-!jc | Adds +1 to the `jesus` counter when nolageek gets jump scared.
 !locker | Adds +1 to the `locker` counter when nolageek hides in a locker
  |
 **Dying Light** |
@@ -74,7 +75,7 @@ Command | Description | Type | Suggestion
   | | |
 **Drag Race** | | |
 !allstar | *"Start your engines, may best woman win"* | :sound: | Start of Game
-!attitude | *"Attitude check! (crickets)"* | :tv: |
+!attitude | *"Attitude check! (crickets)"* | :tv: | HYPE!
 !hoyougo | *"Ho you must go..."* | :sound: | 
 !herses | *"She done already done had herses"* | :sound: | 
 !shade | *shade sfx* | :tv: |
