@@ -62,25 +62,27 @@ Command | Description | Type | Suggestion
 ----- | ----- | ----- | -----
 **General Sounds** | | |
 !run | *"Run bitch, run!"* | :tv: | Someone is getting chased
-!sad | **sad trombone** | | Someone is ded
+!sad | **sad trombone** | :sound: | Someone is ded
  | | |
 **Dead by Daylight** | | |
-!allstar | *"Start your engines, may best woman win"* | | Start of Game
-!reunited | **song clip** | | Healing or Finding other players
-!sexysax | **song clip** | | Healing or Finding other players
+!allstar | *"Start your engines, may best woman win"* | :sound: | Start of Game
+!reunited | **song clip** | :sound: | Healing or Finding other players
+!sexysax | **song clip** | :sound: | Healing or Finding other players
 !snap | *"snap out of it!"* | :tv:| Doctor
 !trap | *"It's a trap!"* | :tv: | Trapper
-!trapper | *"Here comes the trapper..."* | | Trapper
+!trapper | *"Here comes the trapper..."* | :sound: | Trapper
   | | |
 **Drag Race** | | |
-!allstar | *"Start your engines, may best woman win"* | | Start of Game
+!allstar | *"Start your engines, may best woman win"* | :sound: | Start of Game
 !attitude | *"Attitude check! (crickets)"* | :tv: |
-!hoyougo | *"Ho you must go..."* | | 
-!herses | *"She done already done had herses"* | | 
+!hoyougo | *"Ho you must go..."* | :sound: | 
+!herses | *"She done already done had herses"* | :sound: | 
 !shade | *shade sfx* | :tv: |
 !silky | **Random silky quote** | |
 !rupaul | **Random rupaul sound** | |
 
+:sound: = sound clip
+:tv: = sound + GIF
 <p align="center">:small_red_triangle_down:</p>
 
 
