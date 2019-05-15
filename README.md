@@ -35,6 +35,7 @@ Command | Description
 !slap `user` `item` | Slap `user` with a `item` (sigle word)
 !lydia | Lydia makes an appearance on stream.
 !jc | Adds +1 to the `jesus` counter when nolageek gets jump scared
+!commands | This page.
 |
 **Point Management** |
 !points | Your current points and rank on leaderboard
@@ -42,6 +43,10 @@ Command | Description
 !leaderboard | See leaderboard URL
  |
 **Dead by Daylight** |
+!dbdservers | Latest information on dedicated servers
+!collapse | Information / Launch trailer for Endgame Collapse
+!patch270 | Forum post regarding patch 2.7.0
+!leak | Latest leak information (Ghostface!)
 !perk `perkname` | Get information on Dead by Daylight `perkname`. ex: !perk noed
 !locker | Adds +1 to the `locker` counter when nolageek hides in a locker
  |
