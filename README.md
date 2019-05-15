@@ -47,7 +47,7 @@ Command | Description
 !collapse | Information / Launch trailer for Endgame Collapse
 !patch270 | Forum post regarding patch 2.7.0
 !leak | Latest leak information (Ghostface!)
-!perk `perkname` | Get information on Dead by Daylight `perkname`. ex: !perk noed
+!perk `perk` | Get information on Dead by Daylight `perk`. ex: !perk noed
 !locker | Adds +1 to the `locker` counter when nolageek hides in a locker
  |
 **Dying Light** |
