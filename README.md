@@ -35,7 +35,7 @@ Command | Description
 !slap `user` `item` | Slap `user` with a `item` (sigle word)
 !lydia | Adds +1 to the `lydia` counter. When Lydia makes an appearance on stream.
 !jc | Adds +1 to the `jesus` counter when nolageek gets jump scared
-!yawn | Adds +1 to the 'yawn' counter when nolageek is caught yawning on stream
+!yawn | Adds +1 to the `yawn` counter when nolageek is caught yawning on stream
 !commands | This page.
 |
 **Point Management** |
