@@ -33,8 +33,9 @@ Command | Description
 !littleedie | Latest quote from the `littleedie` twitter bot
 !bigedie | Latest quote from the `bigedie` twitter bot
 !slap `user` `item` | Slap `user` with a `item` (sigle word)
-!lydia | Lydia makes an appearance on stream.
+!lydia | Adds +1 to the `lydia` counter. When Lydia makes an appearance on stream.
 !jc | Adds +1 to the `jesus` counter when nolageek gets jump scared
+!yawn | Adds +1 to the 'yawn' counter when nolageek is caught yawning on stream
 !commands | This page.
 |
 **Point Management** |
