@@ -44,8 +44,11 @@ Command | Description
 !leaderboard | See leaderboard URL
  |
 **Dead by Daylight** |
-!dbdservers | Latest information on dedicated servers
-!collapse | Information / Launch trailer for Endgame Collapse
+!dedservers | Latest information on dedicated servers (Link to DBD forum)
+!devupdate	| The latest DBD developer update post (Link to DBD forum)
+!dbdservers | Latest information on dedicated servers (Link to DBD forum)
+!bloodhunt | Information on current or last announced bloodhunt
+!collapse | Information / Launch trailer for Endgame Collapse (YouTube)
 !patch270 | Forum post regarding patch 2.7.0
 !leak | Latest leak information (Ghostface!)
 !perk `perk` | Get information on Dead by Daylight `perk`. ex: !perk noed
