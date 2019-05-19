@@ -47,6 +47,7 @@ Command | Description
 !dedservers | Latest information on dedicated servers (Link to DBD forum)
 !devupdate	| The latest DBD developer update post (Link to DBD forum)
 !dbdservers | Latest information on dedicated servers (Link to DBD forum)
+!vanilla | Dev message regarding Vanilla Gameplay Experiment
 !bloodhunt | Information on current or last announced bloodhunt
 !collapse | Information / Launch trailer for Endgame Collapse (YouTube)
 !patch270 | Forum post regarding patch 2.7.0
