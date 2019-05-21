@@ -45,6 +45,7 @@ Command | Description
  |
 **Dead by Daylight** |
 !3year | 3 Year anniversary stream details (Link to DBD forum)
+!patch | Forum post on latest patch (2.7.1)
 !dedservers | Latest information on dedicated servers (Link to DBD forum)
 !devupdate	| The latest DBD developer update post (Link to DBD forum)
 !dbdservers | Latest information on dedicated servers (Link to DBD forum)
@@ -52,6 +53,7 @@ Command | Description
 !bloodhunt | Information on current or last announced bloodhunt
 !collapse | Information / Launch trailer for Endgame Collapse (YouTube)
 !patch270 | Forum post regarding patch 2.7.0
+!patch271 | Forum post regarding patch 2.7.1
 !leak | Latest leak information (Ghostface!)
 !perk `perk` | Get information on Dead by Daylight `perk`. ex: !perk noed
 !locker | Adds +1 to the `locker` counter when nolageek hides in a locker
