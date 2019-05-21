@@ -44,6 +44,7 @@ Command | Description
 !leaderboard | See leaderboard URL
  |
 **Dead by Daylight** |
+!3year | 3 Year anniversary stream details (Link to DBD forum)
 !dedservers | Latest information on dedicated servers (Link to DBD forum)
 !devupdate	| The latest DBD developer update post (Link to DBD forum)
 !dbdservers | Latest information on dedicated servers (Link to DBD forum)
