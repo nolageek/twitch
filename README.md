@@ -33,7 +33,7 @@ Command | Description
 !littleedie | Latest quote from the `littleedie` twitter bot
 !bigedie | Latest quote from the `bigedie` twitter bot
 !slap `user` `item` | Slap `user` with a `item` (sigle word)
-!lydia | Adds +1 to the `lydia` counter. When Lydia makes an appearance on stream.
+!lydia | Adds +1 to the `lydia` counter. When Lydia makes an appearance on stream
 !jc | Adds +1 to the `jesus` counter when nolageek gets jump scared
 !yawn | Adds +1 to the `yawn` counter when nolageek is caught yawning on stream
 !commands | This page.
@@ -44,8 +44,8 @@ Command | Description
 !leaderboard | See leaderboard URL
  |
 **Dead by Daylight** |
-!3year | 3 Year anniversary stream details (Link to DBD forum)
-!patch | Forum post on latest patch (2.7.1)
+!3yearstream | 3 Year anniversary stream details (Link to DBD forum)
+!patch | Forum post on latest patch (3.0.0)
 !dedservers | Latest information on dedicated servers (Link to DBD forum)
 !devupdate	| The latest DBD developer update post (Link to DBD forum)
 !dbdservers | Latest information on dedicated servers (Link to DBD forum)
@@ -54,6 +54,7 @@ Command | Description
 !collapse | Information / Launch trailer for Endgame Collapse (YouTube)
 !patch270 | Forum post regarding patch 2.7.0
 !patch271 | Forum post regarding patch 2.7.1
+!patch300 | Forum post regarding patch 3.0.0
 !leak | Latest leak information (Ghostface!)
 !perk `perk` | Get information on Dead by Daylight `perk`. ex: !perk noed
 !locker | Adds +1 to the `locker` counter when nolageek hides in a locker
@@ -100,5 +101,3 @@ Command | Description | Type | Suggestion
 :sound: = sound clip
 :tv: = sound + GIF
 <p align="center">:small_red_triangle_down:</p>
-
-
