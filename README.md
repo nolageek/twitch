@@ -45,7 +45,7 @@ Command | Description
  |
 **Dead by Daylight** |
 !3yearstream | 3 Year anniversary stream details (Link to DBD forum)
-!patch | Forum post on latest patch (3.0.0)
+!dbdpatch | Forum post on latest patch (3.1.0)
 !dedservers | Latest information on dedicated servers (Link to DBD forum)
 !devupdate	| The latest DBD developer update post (Link to DBD forum)
 !dbdservers | Latest information on dedicated servers (Link to DBD forum)
@@ -55,6 +55,7 @@ Command | Description
 !patch270 | Forum post regarding patch 2.7.0
 !patch271 | Forum post regarding patch 2.7.1
 !patch300 | Forum post regarding patch 3.0.0
+!patch310 | Formm post regarding patch 3.1.0
 !leak | Latest leak information (Ghostface!)
 !perk `perk` | Get information on Dead by Daylight `perk`. ex: !perk noed
 !locker | Adds +1 to the `locker` counter when nolageek hides in a locker
