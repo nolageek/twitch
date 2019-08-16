@@ -96,6 +96,7 @@ Command | Description | Type | Suggestion
 !hoyougo | *"Ho you must go..."* | :sound: | 
 !herses | *"She done already done had herses"* | :sound: | 
 !shade | *shade sfx* | :tv: |
+!teletubbies | Com/n teletubbies, teleport us to mars! | :tv: |
 !silky | **Random silky quote** | |
 !rupaul | **Random rupaul sound** | |
 
