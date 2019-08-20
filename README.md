@@ -44,19 +44,16 @@ Command | Description
 !leaderboard | See leaderboard URL
 |
 **Dead by Daylight** |
+!dbdnews	| The latest DBD news post (Link to DBD forum)
+!devupdate	| The latest DBD developer update post (Link to DBD forum)
+!dbdpatch | Default newest forum post on latest patch, also specify 301, 300, 271, 270
+!dbdservers | See !devupdate command
+!dbdleak | Latest post from /r/LeaksByDaylight
 !perk `perk` | Get information on Dead by Daylight `perk`. ex: !perk noed
 !3yearstream | 3 Year anniversary stream details (Link to DBD forum)
-!dbdpatch | Forum post on latest patch
-!dedservers | Latest information on dedicated servers (Link to DBD forum)
-!devupdate	| The latest DBD developer update post (Link to DBD forum)
-!dbdservers | Latest information on dedicated servers (Link to DBD forum)
 !vanilla | Dev message regarding Vanilla Gameplay Experiment
 !bloodhunt | Information on current or last announced bloodhunt
 !collapse | Information / Launch trailer for Endgame Collapse (YouTube)
-!patch270 | Forum post regarding patch 2.7.0
-!patch271 | Forum post regarding patch 2.7.1
-!patch300 | Forum post regarding patch 3.0.0
-!patch310 | Formm post regarding patch 3.1.0
 !leak | Latest leak information (Ghostface!)
 !locker | Adds +1 to the `locker` counter when nolageek hides in a locker
 !stranger | Link to Stranger Things announcement trailer
