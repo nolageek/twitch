@@ -44,6 +44,7 @@ Command | Description
 !leaderboard | See leaderboard URL
 |
 **Dead by Daylight** |
+!perk `perk` | Get information on Dead by Daylight `perk`. ex: !perk noed
 !3yearstream | 3 Year anniversary stream details (Link to DBD forum)
 !dbdpatch | Forum post on latest patch
 !dedservers | Latest information on dedicated servers (Link to DBD forum)
@@ -57,8 +58,8 @@ Command | Description
 !patch300 | Forum post regarding patch 3.0.0
 !patch310 | Formm post regarding patch 3.1.0
 !leak | Latest leak information (Ghostface!)
-!perk `perk` | Get information on Dead by Daylight `perk`. ex: !perk noed
 !locker | Adds +1 to the `locker` counter when nolageek hides in a locker
+!stranger | Link to Stranger Things announcement trailer
  |
 **Dying Light** |
 !docket | Link to new docket announcements on twitter
