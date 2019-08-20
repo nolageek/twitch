@@ -37,15 +37,15 @@ Command | Description
 !jc | Adds +1 to the `jesus` counter when nolageek gets jump scared
 !yawn | Adds +1 to the `yawn` counter when nolageek is caught yawning on stream
 !commands | This page.
-|
+ |
 **Point Management** |
 !points | Your current points and rank on leaderboard
 !givepoints `user` | Transfer points to `user` 
 !leaderboard | See leaderboard URL
- |
+|
 **Dead by Daylight** |
 !3yearstream | 3 Year anniversary stream details (Link to DBD forum)
-!dbdpatch | Forum post on latest patch (3.1.0)
+!dbdpatch | Forum post on latest patch
 !dedservers | Latest information on dedicated servers (Link to DBD forum)
 !devupdate	| The latest DBD developer update post (Link to DBD forum)
 !dbdservers | Latest information on dedicated servers (Link to DBD forum)
