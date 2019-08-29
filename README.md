@@ -37,7 +37,7 @@ Command | Description
 !jc | Adds +1 to the `jesus` counter when nolageek gets jump scared
 !yawn | Adds +1 to the `yawn` counter when nolageek is caught yawning on stream
 !commands | This page.
- |       
+&nbsp|&nbsp
 **Point Management** |
 !points | Your current points and rank on leaderboard
 !givepoints `user` | Transfer points to `user` 
