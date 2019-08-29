@@ -42,7 +42,7 @@ Command | Description
 !points | Your current points and rank on leaderboard
 !givepoints `user` | Transfer points to `user` 
 !leaderboard | See leaderboard URL
-Command | Description 
+&nbsp;|&nbsp;
 **Dead by Daylight** |
 !shrine | The current items in the Shrine of Secrets
 !dbdnews	| The latest DBD news post (Link to DBD forum)
@@ -58,10 +58,10 @@ Command | Description
 !leak | Latest leak information (Ghostface!)
 !locker | Adds +1 to the `locker` counter when nolageek hides in a locker
 !stranger | Link to Stranger Things announcement trailer
- | 
+&nbsp;|&nbsp;
 **Dying Light** |
 !docket | Link to new docket announcements on twitter
- | 
+&nbsp;|&nbsp;
 **Stardew Valley** |
 !faint | Adds +1 to the faint counter when nolageek has fainted!
 
