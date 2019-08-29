@@ -37,12 +37,12 @@ Command | Description
 !jc | Adds +1 to the `jesus` counter when nolageek gets jump scared
 !yawn | Adds +1 to the `yawn` counter when nolageek is caught yawning on stream
 !commands | This page.
- |
+. |.
 **Point Management** |
 !points | Your current points and rank on leaderboard
 !givepoints `user` | Transfer points to `user` 
 !leaderboard | See leaderboard URL
-|
+. | .
 **Dead by Daylight** |
 !shrine | The current items in the Shrine of Secrets
 !dbdnews	| The latest DBD news post (Link to DBD forum)
