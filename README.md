@@ -37,12 +37,12 @@ Command | Description
 !jc | Adds +1 to the `jesus` counter when nolageek gets jump scared
 !yawn | Adds +1 to the `yawn` counter when nolageek is caught yawning on stream
 !commands | This page.
-. |.
+Command | Description 
 **Point Management** |
 !points | Your current points and rank on leaderboard
 !givepoints `user` | Transfer points to `user` 
 !leaderboard | See leaderboard URL
-. | .
+Command | Description 
 **Dead by Daylight** |
 !shrine | The current items in the Shrine of Secrets
 !dbdnews	| The latest DBD news post (Link to DBD forum)
@@ -58,10 +58,10 @@ Command | Description
 !leak | Latest leak information (Ghostface!)
 !locker | Adds +1 to the `locker` counter when nolageek hides in a locker
 !stranger | Link to Stranger Things announcement trailer
- |
+ | 
 **Dying Light** |
 !docket | Link to new docket announcements on twitter
- |
+ | 
 **Stardew Valley** |
 !faint | Adds +1 to the faint counter when nolageek has fainted!
 
