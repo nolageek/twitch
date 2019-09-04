@@ -45,6 +45,7 @@ Command | Description
 &nbsp;|&nbsp;
 **Dead by Daylight** |
 !shrine | The current items in the Shrine of Secrets
+!dbdptb | Latest news on Public Test Builds
 !dbdnews	| The latest DBD news post (Link to DBD forum)
 !devupdate	| The latest DBD developer update post (Link to DBD forum)
 !dbdpatch | Default newest forum post on latest patch, also specify 301, 300, 271, 270
