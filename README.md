@@ -44,25 +44,17 @@ Command | Description
 !leaderboard | See leaderboard URL
 &nbsp;|&nbsp;
 **Dead by Daylight** |
-!shrine | The current items in the Shrine of Secrets
+!dbdshrine | The current items in the Shrine of Secrets
 !dbdptb | Latest DBD forum post on Public Test Builds
-!ptb | Information on latest/next PTB
 !dbdnews	| The latest DBD news post (Link to DBD forum)
 !devupdate	| The latest DBD developer update post (Link to DBD forum)
 !dbdpatch | Default newest forum post on latest patch, also specify 301, 300, 271, 270
-!dbdservers | See !devupdate command
 !dbdleak | Latest post from /r/LeaksByDaylight
-!perk `perk` | Get information on Dead by Daylight `perk`. ex: !perk noed
-!3yearstream | 3 Year anniversary stream details (Link to DBD forum)
-!vanilla | Dev message regarding Vanilla Gameplay Experiment
+!dbdperk `perk` | Get information on Dead by Daylight `perk`. ex: !perk noed
 !bloodhunt | Information on current or last announced bloodhunt
-!collapse | Information / Launch trailer for Endgame Collapse (YouTube)
-!leak | Latest leak information (Ghostface!)
 !locker | Adds +1 to the `locker` counter when nolageek hides in a locker
-!stranger | Link to Stranger Things announcement trailer
 &nbsp;|&nbsp;
 **Dying Light** |
-!docket | Link to new docket announcements on twitter
 &nbsp;|&nbsp;
 **Stardew Valley** |
 !faint | Adds +1 to the faint counter when nolageek has fainted!
