@@ -76,6 +76,7 @@ Command | Description | Type | Suggestion
 !sad | **sad trombone** | :sound: | Someone is ded
  | | |
 **Dead by Daylight** | | |
+!skillcheck | Produces a fake skill check sound | :sound: | Generator/Sabo
 !allstar | *"Start your engines, may best woman win"* | :sound: | Start of Game
 !reunited | **song clip** | :sound: | Healing or Finding other players
 !sexysax | **song clip** | :sound: | Healing or Finding other players
