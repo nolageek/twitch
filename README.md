@@ -76,16 +76,16 @@ Command | Description | Type | Suggestion
 !sad | **sad trombone** | :sound: | Someone is ded
  | | |
 **Dead by Daylight** | | |
-!skillcheck | :small_blue_diamond: Produces a fake skill check sound | :sound: | Generator/Sabo
+!skillcheck | Produces a fake skill check sound | :sound: :small_blue_diamond: | Generator/Sabo
 !allstar | *"Start your engines, may best woman win"* | :sound: | Start of Game
 !reunited | **song clip** | :sound: | Healing or Finding other players
 !sexysax | **song clip** | :sound: | Healing or Finding other players
-!snap | :small_blue_diamond: *"snap out of it!"* | :tv:| Doctor
-!trap | :small_blue_diamond: *"It's a trap!"* | :tv: | Trapper
-!trapper | :small_blue_diamond: *"Here comes the trapper..."* | :sound: | Trapper
+!snap | *"snap out of it!"* | :tv: :small_blue_diamond:| Doctor
+!trap | *"It's a trap!"* | :tv: :small_blue_diamond: | Trapper
+!trapper | *"Here comes the trapper..."* | :sound: :small_blue_diamond: | Trapper
   | | |
 **Drag Race** | | |
-!allstar | :small_blue_diamond: *"Start your engines, may best woman win"* | :sound: | Start of Game
+!allstar | *"Start your engines, may best woman win"* | :sound: :small_blue_diamond: | Start of Game
 !attitude | *"Attitude check! (crickets)"* | :tv: | HYPE!
 !hoyougo | *"Ho you must go..."* | :sound: | 
 !herses | *"She done already done had herses"* | :sound: | 
