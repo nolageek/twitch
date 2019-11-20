@@ -47,11 +47,9 @@ Command | Description
 !dbdshrine | The current items in the Shrine of Secrets
 !dbdptb | Latest DBD forum post on Public Test Builds
 !dbdnews	| The latest DBD news post (Link to DBD forum)
-!devupdate	| The latest DBD developer update post (Link to DBD forum)
-!dbdpatch | Default newest forum post on latest patch, also specify 301, 300, 271, 270
+!dbdpatch | Default newest forum post on latest patch.
 !dbdleak | Latest post from /r/LeaksByDaylight
 !dbdperk `perk` | Get information on Dead by Daylight `perk`. ex: !dbdperk noed
-!bloodhunt | Information on current or last announced bloodhunt
 !locker | Adds +1 to the `locker` counter when nolageek hides in a locker
 &nbsp;|&nbsp;
 **Dying Light** |
