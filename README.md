@@ -50,7 +50,7 @@ Command | Description
 !devupdate	| The latest DBD developer update post (Link to DBD forum)
 !dbdpatch | Default newest forum post on latest patch, also specify 301, 300, 271, 270
 !dbdleak | Latest post from /r/LeaksByDaylight
-!dbdperk `perk` | Get information on Dead by Daylight `perk`. ex: !perk noed
+!dbdperk `perk` | Get information on Dead by Daylight `perk`. ex: !dbdperk noed
 !bloodhunt | Information on current or last announced bloodhunt
 !locker | Adds +1 to the `locker` counter when nolageek hides in a locker
 &nbsp;|&nbsp;
