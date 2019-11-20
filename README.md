@@ -76,16 +76,16 @@ Command | Description | Type | Suggestion
 !sad | **sad trombone** | :sound: | Someone is ded
  | | |
 **Dead by Daylight** | | |
-!skillcheck | Produces a fake skill check sound | :sound: | Generator/Sabo
+!skillcheck | :small_blue_diamond: Produces a fake skill check sound | :sound: | Generator/Sabo
 !allstar | *"Start your engines, may best woman win"* | :sound: | Start of Game
 !reunited | **song clip** | :sound: | Healing or Finding other players
 !sexysax | **song clip** | :sound: | Healing or Finding other players
-!snap | *"snap out of it!"* | :tv:| Doctor
-!trap | *"It's a trap!"* | :tv: | Trapper
-!trapper | *"Here comes the trapper..."* | :sound: | Trapper
+!snap | :small_blue_diamond: *"snap out of it!"* | :tv:| Doctor
+!trap | :small_blue_diamond: *"It's a trap!"* | :tv: | Trapper
+!trapper | :small_blue_diamond: *"Here comes the trapper..."* | :sound: | Trapper
   | | |
 **Drag Race** | | |
-!allstar | *"Start your engines, may best woman win"* | :sound: | Start of Game
+!allstar | :small_blue_diamond: *"Start your engines, may best woman win"* | :sound: | Start of Game
 !attitude | *"Attitude check! (crickets)"* | :tv: | HYPE!
 !hoyougo | *"Ho you must go..."* | :sound: | 
 !herses | *"She done already done had herses"* | :sound: | 
@@ -95,5 +95,9 @@ Command | Description | Type | Suggestion
 !rupaul | **Random rupaul sound** | |
 
 :sound: = sound clip
+
 :tv: = sound + GIF
+
+:small_blue_diamond: = Also available via Sound Alerts on profile. (Uses bits, but less of a cooldown.)
+
 <p align="center">:small_red_triangle_down:</p>
