@@ -84,7 +84,7 @@ Command | Description | Type | Suggestion
 !mutilate | *"Let that shit just mutilate her white ass and leave! "* | :sound: | Someone is getting chased
 !reunited | **song clip** | :sound: | Healing or Finding other players
 !sexysax | **song clip** | :sound: | Healing or Finding other players
-!snap | *"snap out of it!"* | :tv: :small_blue_diamond:| Doctor
+!snap | *"snap out of it!"* | :sound: :small_blue_diamond:| Doctor
 !trap | *"It's a trap!"* | :tv: :small_blue_diamond: | Trapper
 !trapper | *"Here comes the trapper..."* | :sound: :small_blue_diamond: | Trapper
 !chainsaw | *"A muthafuckin chainsaw! (what?!)"* | :sound: :small_blue_diamond: | Billy/Leatherface
@@ -98,7 +98,7 @@ Command | Description | Type | Suggestion
 !herses | *"She done already done had herses"* | :sound: | 
 !nuts | *"Get those nuts outta my face."* | :sound: | 
 !oop | *"And I oop."* | :sound: | A mistake was made
-!shade | *shade sfx* | :tv: |
+!shade | *shade sfx* | :sound: |
 !teletubbies | Com/n teletubbies, teleport us to mars! | :tv: |
 !tone | *"Your tone seems very pointed right now."* | :sound: | 
 !silky | **Random silky quote** | |
