@@ -69,10 +69,15 @@ Command | Description | Type | Suggestion
 ----- | ----- | ----- | -----
 **General Sounds** | | |
 !boo | *Boo! Hiss!* | :sound: | Something bad happened. :(
+!mariodead | **mario dead sound** | :sound: | Someone is ded
 !run | *"Run bitch, run!"* | :sound: | Someone is getting chased
 !sad | **sad trombone** | :sound: | Someone is ded
+!stupid | *"I'm a stupid bitch."* | :sound: | 
+!naughty | *"I'm a naughty bitch."* | :sound: | 
 !nextone | *"On to the next one..."* | :sound: | 
- | | |
+!nope | *"Nope. Nope. Nope. Nope. Nope. "* | :sound: | Something bad happened. :(
+
+| | |
 **Dead by Daylight** | | |
 !skillcheck | Produces a fake skill check sound | :sound: :small_blue_diamond: | Generator/Sabo
 !allstar | *"Start your engines, may best woman win"* | :sound: | Start of Game
@@ -95,9 +100,9 @@ Command | Description | Type | Suggestion
 !oop | *"And I oop."* | :sound: | A mistake was made
 !shade | *shade sfx* | :tv: |
 !teletubbies | Com/n teletubbies, teleport us to mars! | :tv: |
+!tone | *"Your tone seems very pointed right now."* | :sound: | 
 !silky | **Random silky quote** | |
 !rupaul | **Random rupaul sound** | |
-
 :sound: = sound clip
 
 :tv: = sound + GIF
