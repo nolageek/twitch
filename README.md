@@ -91,7 +91,7 @@ Command | Description | Type | Suggestion
 
 | | |
 **Drag Race** | | | 
-!allstar | *"Start your engines, may best woman win"* | :sound: :small_blue_diamond: | Start of Game
+!allstar | *"Start your engines, may best woman win"* | :sound::small_blue_diamond: | Start of Game
 !attitude | *"Attitude check! (crickets)"* | :sound: | HYPE!
 !drama | *"Drama, confusion, chaos, and madness"* | :sound: | 
 !hoyougo | *"Ho you must go..."* | :sound: | 
@@ -103,6 +103,8 @@ Command | Description | Type | Suggestion
 !tone | *"Your tone seems very pointed right now."* | :sound: | 
 !silky | **Random silky quote** | |
 !~~rupaul | **Random rupaul sound** | |~~
+
+
 :sound: = sound clip
 
 :tv: = sound + GIF
