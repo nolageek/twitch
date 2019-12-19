@@ -85,7 +85,7 @@ Command | Description | Type | Suggestion
 !reunited | **song clip** | :sound: | Healing or Finding other players
 !sexysax | **song clip** | :sound: | Healing or Finding other players
 !snap | *"snap out of it!"* | :sound: | Doctor
-!trap | *"It's a trap!"* | :tv::small_blue_diamond: | Trapper
+!trap | *"It's a trap!"* | :tv: | Trapper
 !trapper | *"Here comes the trapper..."* | :sound: | Trapper
 !chainsaw | *"A muthafuckin chainsaw! (what?!)"* | :sound: | Billy/Leatherface
 
