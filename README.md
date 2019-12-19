@@ -90,7 +90,7 @@ Command | Description | Type | Suggestion
 !chainsaw | *"A muthafuckin chainsaw! (what?!)"* | :sound: :small_blue_diamond: | Billy/Leatherface
 
 | | |
-**Drag Race** | | |
+**Drag Race** | | | 
 !allstar | *"Start your engines, may best woman win"* | :sound: :small_blue_diamond: | Start of Game
 !attitude | *"Attitude check! (crickets)"* | :sound: | HYPE!
 !drama | *"Drama, confusion, chaos, and madness"* | :sound: | 
@@ -98,7 +98,7 @@ Command | Description | Type | Suggestion
 !herses | *"She done already done had herses"* | :sound: | 
 !nuts | *"Get those nuts outta my face."* | :sound: | 
 !oop | *"And I oop."* | :sound: | A mistake was made
-!shade | *shade sfx* | :sound: |
+!shade | *shade sfx* | :sound: | 
 !teletubbies | Com/n teletubbies, teleport us to mars! | :tv: |
 !tone | *"Your tone seems very pointed right now."* | :sound: | 
 !silky | **Random silky quote** | |
