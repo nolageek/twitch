@@ -89,7 +89,7 @@ Command | Description | Type | Suggestion
 !trapper | *"Here comes the trapper..."* | :sound: :small_blue_diamond: | Trapper
 !chainsaw | *"A muthafuckin chainsaw! (what?!)"* | :sound: :small_blue_diamond: | Billy/Leatherface
 
-  | | |
+| | |
 **Drag Race** | | |
 !allstar | *"Start your engines, may best woman win"* | :sound: :small_blue_diamond: | Start of Game
 !attitude | *"Attitude check! (crickets)"* | :sound: | HYPE!
@@ -102,7 +102,7 @@ Command | Description | Type | Suggestion
 !teletubbies | Com/n teletubbies, teleport us to mars! | :tv: |
 !tone | *"Your tone seems very pointed right now."* | :sound: | 
 !silky | **Random silky quote** | |
-!rupaul | **Random rupaul sound** | |
+!~~rupaul | **Random rupaul sound** | |~~
 :sound: = sound clip
 
 :tv: = sound + GIF
