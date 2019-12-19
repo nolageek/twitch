@@ -79,19 +79,19 @@ Command | Description | Type | Suggestion
 
 | | |
 **Dead by Daylight** | | |
-!skillcheck | Produces a fake skill check sound | :sound::small_blue_diamond: | Generator/Sabo
+!skillcheck | Produces a fake skill check sound | :sound: | Generator/Sabo
 !allstar | *"Start your engines, may best woman win"* | :sound: | Start of Game
 !mutilate | *"Let that shit just mutilate her white ass and leave! "* | :sound: | Someone is getting chased
 !reunited | **song clip** | :sound: | Healing or Finding other players
 !sexysax | **song clip** | :sound: | Healing or Finding other players
-!snap | *"snap out of it!"* | :sound::small_blue_diamond:| Doctor
+!snap | *"snap out of it!"* | :sound: | Doctor
 !trap | *"It's a trap!"* | :tv::small_blue_diamond: | Trapper
-!trapper | *"Here comes the trapper..."* | :sound::small_blue_diamond: | Trapper
-!chainsaw | *"A muthafuckin chainsaw! (what?!)"* | :sound::small_blue_diamond: | Billy/Leatherface
+!trapper | *"Here comes the trapper..."* | :sound: | Trapper
+!chainsaw | *"A muthafuckin chainsaw! (what?!)"* | :sound: | Billy/Leatherface
 
 | | |
 **Drag Race** | | | 
-!allstar | *"Start your engines, may best woman win"* | :sound::small_blue_diamond: | Start of Game
+!allstar | *"Start your engines, may best woman win"* | :sound: | Start of Game
 !attitude | *"Attitude check! (crickets)"* | :sound: | HYPE!
 !drama | *"Drama, confusion, chaos, and madness"* | :sound: | 
 !hoyougo | *"Ho you must go..."* | :sound: | 
