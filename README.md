@@ -33,10 +33,10 @@ Command | Description
 !littleedie | Latest quote from the `littleedie` twitter bot
 !bigedie | Latest quote from the `bigedie` twitter bot
 !slap `user` `item` | Slap `user` with a `item` (sigle word)
-!lydia | Adds +1 to the `lydia` counter. When Lydia makes an appearance on stream
-!jc | Adds +1 to the `jesus` counter when nolageek gets jump scared
+!bunny | Adds +1 to the `bunny` counter. When Bunny the cat makes an appearance on stream
+!jc | Adds +1 to the `jesus` counter when nolageek gets jump scared and blasphemes
 !yawn | Adds +1 to the `yawn` counter when nolageek is caught yawning on stream
-!commands | This page.
+!commands | This page - duh
 &nbsp;|&nbsp;
 **Point Management** |
 !points | Your current points and rank on leaderboard
@@ -44,11 +44,6 @@ Command | Description
 !leaderboard | See leaderboard URL
 &nbsp;|&nbsp;
 **Dead by Daylight** |
-!dbdshrine | The current items in the Shrine of Secrets
-!dbdptb | Latest DBD forum post on Public Test Builds
-!dbdnews	| The latest DBD news post (Link to DBD forum)
-!dbdpatch | Default newest forum post on latest patch.
-!dbdleak | Latest post from /r/LeaksByDaylight
 !dbdperk `perk` | Get information on Dead by Daylight `perk`. ex: !dbdperk noed
 !locker | Adds +1 to the `locker` counter when nolageek hides in a locker
 &nbsp;|&nbsp;
