@@ -66,6 +66,7 @@ Command | Description | Type | Suggestion
 !boo | *Boo! Hiss!* | :sound: | Something bad happened. :(
 !mariodead | **mario dead sound** | :sound: | Someone is ded
 !run | *"Run bitch, run!"* | :sound: | Someone is getting chased
+!awol | *"dun dun dun dun... run!"* | :sound: | Someone is getting chased
 !sad | **sad trombone** | :sound: | Someone is ded
 !stupid | *"I'm a stupid bitch."* | :sound: | 
 !naughty | *"I'm a naughty bitch."* | :sound: | 
@@ -81,7 +82,7 @@ Command | Description | Type | Suggestion
 !sexysax | **song clip** | :sound: | Healing or Finding other players
 !snap | *"snap out of it!"* | :sound: | Doctor
 !trap | *"It's a trap!"* | :tv: | Trapper
-!trapper | *"Here comes the trapper..."* | :sound: | Trapper
+!heretrapper | *"Here comes the trapper..."* | :sound: | Trapper
 !chainsaw | *"A muthafuckin chainsaw! (what?!)"* | :sound: | Billy/Leatherface
 
 | | |
