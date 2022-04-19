@@ -96,7 +96,12 @@ Command | Description | Type | Suggestion
 !shade | *shade sfx* | :sound: | 
 !teletubbies | Com/n teletubbies, teleport us to mars! | :tv: |
 !tone | *"Your tone seems very pointed right now."* | :sound: | 
-!silky | **Random silky quote** | |
+!contact | *"drag is not a contact sport"* | :sound: | 
+!trixiegivesup | *Trixie sits and sighs* | :sound: | 
+!dfit | *"Don't fuck it up"* | :sound: | 
+!lifting | *"can't be lifting up drag queens"* | :sound: | 
+
+!~~silky | **Random silky quote** | |~~
 !~~rupaul | **Random rupaul sound** | |~~
 
 
